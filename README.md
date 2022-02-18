@@ -1,1 +1,2 @@
-My first readme
+#MyApp
+This is my app
